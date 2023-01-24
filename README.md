@@ -1,4 +1,6 @@
 ## Testing tools
+[![CI Tests](https://github.com/xSolrac87/testing/actions/workflows/linter.yml/badge.svg)]
+(https://github.com/xSolrac87/testing/actions/workflows/linter.yml)
 
 ### Execution Modes
 #### parallel
